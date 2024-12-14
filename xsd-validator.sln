@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xsd-validator", "xsd-validator.csproj", "{FA05C2CE-6EE8-4E42-A6A8-516C3B2108E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA05C2CE-6EE8-4E42-A6A8-516C3B2108E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA05C2CE-6EE8-4E42-A6A8-516C3B2108E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA05C2CE-6EE8-4E42-A6A8-516C3B2108E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA05C2CE-6EE8-4E42-A6A8-516C3B2108E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA46E9A-C6BF-46F4-8C1C-6C08AC4B8480}
+	EndGlobalSection
+EndGlobal
